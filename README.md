@@ -20,7 +20,7 @@
 <h3>프로젝트에는 코로나19라는 사회적 흐름이 담겨있다.</h3>
 <br>
 
-url :
+url : https://28sungmin.github.io/newbe/
 
 멘토 멘티 교류 웹<br>
 위에 : 멘토 등록하기, 멘티 등록하기<br>
